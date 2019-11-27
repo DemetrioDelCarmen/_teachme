@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">teachme</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Ingresar</string>
+    <string name="et_email">Correo electrónico</string>
+    <string name="et_password">Contraseña</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <string name="btn_iniciar_sesion">Entrar</string>
+    <string name="btn_iniciar_sesion_google">Inicia sesión con Google</string>
+    <string name="btn_registrar_aqui">Regístrate aquí</string>
+
+
+</resources>
